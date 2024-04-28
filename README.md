@@ -1,4 +1,7 @@
 This is key mismatch attack demo for Kyber768 in NIST Round 3.
+First of all the program is going to be generating the pair of public and private keys
+after ciphering the message, the attack will try to figure the private key out using 
+the public key in addition to the ciphered text after specifying a kernal seed.
 
 # Structure
 
